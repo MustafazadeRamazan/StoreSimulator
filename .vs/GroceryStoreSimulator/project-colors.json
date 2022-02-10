@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "758c28fd-275a-44c8-8234-d52e31b03805": {
+      "ProjectGuid": "758c28fd-275a-44c8-8234-d52e31b03805",
+      "DisplayName": "GroceryStoreSimulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
